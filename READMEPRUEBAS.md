@@ -10,5 +10,22 @@ Tópicos:
 - [Path](https://nodejs.org/api/path.html)
 - [File System](https://nodejs.org/api/fs.html)
 - [marked](https://github.com/markedjs/marked)
+<<<<<<< HEAD
 - [Asíncronía en js](https://carlosazaustre.com/manejando-la-asincronia-en-javaript/)
 - [Google](http://google.com/)
+=======
+- [Asíncronía en js](https://carlosazaustre.com/manejando-la-asincronia-en-javascript/)
+
+
+### Pistas
+
+- [Marked](https://github.com/markedjs/marked/blob/master/docs/USING_PRO.md)
+- [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
+- [Publicar packpage](https://docs.npmjs.com/getting-started/publishing-npm-packages)
+- [Crear módulos en Node.js](https://docs.npmjs.com/getting-started/publishing-npm-packages)
+- [Leer un archivo](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
+- [Leer un Directorio](https://nodejs.org/api/fs.html#fs_fs_readdir_path_options_callback)
+- [Path](https://nodejs.org/api/path.html)
+- [Linea de comando CLI](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
+- [npm install githubname/reponame](https://docs.npmjs.com/cli/install)
+>>>>>>> 677d6a62acbb343d36c2fae31bac4c6ef8b54279
